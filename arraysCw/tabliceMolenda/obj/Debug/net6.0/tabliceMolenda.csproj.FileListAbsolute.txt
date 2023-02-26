@@ -1,0 +1,15 @@
+/Users/justynamalinowska/Projects/tabliceMolenda/tabliceMolenda/bin/Debug/net6.0/tabliceMolenda
+/Users/justynamalinowska/Projects/tabliceMolenda/tabliceMolenda/bin/Debug/net6.0/tabliceMolenda.deps.json
+/Users/justynamalinowska/Projects/tabliceMolenda/tabliceMolenda/bin/Debug/net6.0/tabliceMolenda.runtimeconfig.json
+/Users/justynamalinowska/Projects/tabliceMolenda/tabliceMolenda/bin/Debug/net6.0/tabliceMolenda.dll
+/Users/justynamalinowska/Projects/tabliceMolenda/tabliceMolenda/bin/Debug/net6.0/tabliceMolenda.pdb
+/Users/justynamalinowska/Projects/tabliceMolenda/tabliceMolenda/obj/Debug/net6.0/tabliceMolenda.csproj.AssemblyReference.cache
+/Users/justynamalinowska/Projects/tabliceMolenda/tabliceMolenda/obj/Debug/net6.0/tabliceMolenda.GeneratedMSBuildEditorConfig.editorconfig
+/Users/justynamalinowska/Projects/tabliceMolenda/tabliceMolenda/obj/Debug/net6.0/tabliceMolenda.AssemblyInfoInputs.cache
+/Users/justynamalinowska/Projects/tabliceMolenda/tabliceMolenda/obj/Debug/net6.0/tabliceMolenda.AssemblyInfo.cs
+/Users/justynamalinowska/Projects/tabliceMolenda/tabliceMolenda/obj/Debug/net6.0/tabliceMolenda.csproj.CoreCompileInputs.cache
+/Users/justynamalinowska/Projects/tabliceMolenda/tabliceMolenda/obj/Debug/net6.0/tabliceMolenda.dll
+/Users/justynamalinowska/Projects/tabliceMolenda/tabliceMolenda/obj/Debug/net6.0/refint/tabliceMolenda.dll
+/Users/justynamalinowska/Projects/tabliceMolenda/tabliceMolenda/obj/Debug/net6.0/tabliceMolenda.pdb
+/Users/justynamalinowska/Projects/tabliceMolenda/tabliceMolenda/obj/Debug/net6.0/tabliceMolenda.genruntimeconfig.cache
+/Users/justynamalinowska/Projects/tabliceMolenda/tabliceMolenda/obj/Debug/net6.0/ref/tabliceMolenda.dll

@@ -1,0 +1,8 @@
+﻿555-774
+
+
+(\+49)|0049|0?1(7|6)\d/\d{8}
+
+? can be char but do not have to
+
+https?://(www.)?(\w+)(\.eu)

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 25.0.1704.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RegularExperssions", "RegularExperssions\RegularExperssions.csproj", "{D69DF10E-296D-425D-9FB6-F0D66811BE8D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D69DF10E-296D-425D-9FB6-F0D66811BE8D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D69DF10E-296D-425D-9FB6-F0D66811BE8D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D69DF10E-296D-425D-9FB6-F0D66811BE8D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D69DF10E-296D-425D-9FB6-F0D66811BE8D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {84B918A0-8369-4D47-ACD7-856AD41F8B15}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,15 @@
+/Users/justynamalinowska/Projects/RegularExperssions/RegularExperssions/bin/Debug/net7.0/RegularExperssions
+/Users/justynamalinowska/Projects/RegularExperssions/RegularExperssions/bin/Debug/net7.0/RegularExperssions.deps.json
+/Users/justynamalinowska/Projects/RegularExperssions/RegularExperssions/bin/Debug/net7.0/RegularExperssions.runtimeconfig.json
+/Users/justynamalinowska/Projects/RegularExperssions/RegularExperssions/bin/Debug/net7.0/RegularExperssions.dll
+/Users/justynamalinowska/Projects/RegularExperssions/RegularExperssions/bin/Debug/net7.0/RegularExperssions.pdb
+/Users/justynamalinowska/Projects/RegularExperssions/RegularExperssions/obj/Debug/net7.0/RegularExperssions.csproj.AssemblyReference.cache
+/Users/justynamalinowska/Projects/RegularExperssions/RegularExperssions/obj/Debug/net7.0/RegularExperssions.GeneratedMSBuildEditorConfig.editorconfig
+/Users/justynamalinowska/Projects/RegularExperssions/RegularExperssions/obj/Debug/net7.0/RegularExperssions.AssemblyInfoInputs.cache
+/Users/justynamalinowska/Projects/RegularExperssions/RegularExperssions/obj/Debug/net7.0/RegularExperssions.AssemblyInfo.cs
+/Users/justynamalinowska/Projects/RegularExperssions/RegularExperssions/obj/Debug/net7.0/RegularExperssions.csproj.CoreCompileInputs.cache
+/Users/justynamalinowska/Projects/RegularExperssions/RegularExperssions/obj/Debug/net7.0/RegularExperssions.dll
+/Users/justynamalinowska/Projects/RegularExperssions/RegularExperssions/obj/Debug/net7.0/refint/RegularExperssions.dll
+/Users/justynamalinowska/Projects/RegularExperssions/RegularExperssions/obj/Debug/net7.0/RegularExperssions.pdb
+/Users/justynamalinowska/Projects/RegularExperssions/RegularExperssions/obj/Debug/net7.0/RegularExperssions.genruntimeconfig.cache
+/Users/justynamalinowska/Projects/RegularExperssions/RegularExperssions/obj/Debug/net7.0/ref/RegularExperssions.dll

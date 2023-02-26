@@ -1,0 +1,15 @@
+/Users/justynamalinowska/Projects/sortowanie_bombelkowe/sortowanie_bombelkowe/bin/Debug/net7.0/sortowanie_bombelkowe
+/Users/justynamalinowska/Projects/sortowanie_bombelkowe/sortowanie_bombelkowe/bin/Debug/net7.0/sortowanie_bombelkowe.deps.json
+/Users/justynamalinowska/Projects/sortowanie_bombelkowe/sortowanie_bombelkowe/bin/Debug/net7.0/sortowanie_bombelkowe.runtimeconfig.json
+/Users/justynamalinowska/Projects/sortowanie_bombelkowe/sortowanie_bombelkowe/bin/Debug/net7.0/sortowanie_bombelkowe.dll
+/Users/justynamalinowska/Projects/sortowanie_bombelkowe/sortowanie_bombelkowe/bin/Debug/net7.0/sortowanie_bombelkowe.pdb
+/Users/justynamalinowska/Projects/sortowanie_bombelkowe/sortowanie_bombelkowe/obj/Debug/net7.0/sortowanie_bombelkowe.csproj.AssemblyReference.cache
+/Users/justynamalinowska/Projects/sortowanie_bombelkowe/sortowanie_bombelkowe/obj/Debug/net7.0/sortowanie_bombelkowe.GeneratedMSBuildEditorConfig.editorconfig
+/Users/justynamalinowska/Projects/sortowanie_bombelkowe/sortowanie_bombelkowe/obj/Debug/net7.0/sortowanie_bombelkowe.AssemblyInfoInputs.cache
+/Users/justynamalinowska/Projects/sortowanie_bombelkowe/sortowanie_bombelkowe/obj/Debug/net7.0/sortowanie_bombelkowe.AssemblyInfo.cs
+/Users/justynamalinowska/Projects/sortowanie_bombelkowe/sortowanie_bombelkowe/obj/Debug/net7.0/sortowanie_bombelkowe.csproj.CoreCompileInputs.cache
+/Users/justynamalinowska/Projects/sortowanie_bombelkowe/sortowanie_bombelkowe/obj/Debug/net7.0/sortowanie_bombelkowe.dll
+/Users/justynamalinowska/Projects/sortowanie_bombelkowe/sortowanie_bombelkowe/obj/Debug/net7.0/refint/sortowanie_bombelkowe.dll
+/Users/justynamalinowska/Projects/sortowanie_bombelkowe/sortowanie_bombelkowe/obj/Debug/net7.0/sortowanie_bombelkowe.pdb
+/Users/justynamalinowska/Projects/sortowanie_bombelkowe/sortowanie_bombelkowe/obj/Debug/net7.0/sortowanie_bombelkowe.genruntimeconfig.cache
+/Users/justynamalinowska/Projects/sortowanie_bombelkowe/sortowanie_bombelkowe/obj/Debug/net7.0/ref/sortowanie_bombelkowe.dll
