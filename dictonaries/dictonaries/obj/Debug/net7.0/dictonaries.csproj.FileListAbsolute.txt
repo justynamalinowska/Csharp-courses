@@ -1,0 +1,15 @@
+/Users/justynamalinowska/Projects/dictonaries/dictonaries/bin/Debug/net7.0/dictonaries
+/Users/justynamalinowska/Projects/dictonaries/dictonaries/bin/Debug/net7.0/dictonaries.deps.json
+/Users/justynamalinowska/Projects/dictonaries/dictonaries/bin/Debug/net7.0/dictonaries.runtimeconfig.json
+/Users/justynamalinowska/Projects/dictonaries/dictonaries/bin/Debug/net7.0/dictonaries.dll
+/Users/justynamalinowska/Projects/dictonaries/dictonaries/bin/Debug/net7.0/dictonaries.pdb
+/Users/justynamalinowska/Projects/dictonaries/dictonaries/obj/Debug/net7.0/dictonaries.csproj.AssemblyReference.cache
+/Users/justynamalinowska/Projects/dictonaries/dictonaries/obj/Debug/net7.0/dictonaries.GeneratedMSBuildEditorConfig.editorconfig
+/Users/justynamalinowska/Projects/dictonaries/dictonaries/obj/Debug/net7.0/dictonaries.AssemblyInfoInputs.cache
+/Users/justynamalinowska/Projects/dictonaries/dictonaries/obj/Debug/net7.0/dictonaries.AssemblyInfo.cs
+/Users/justynamalinowska/Projects/dictonaries/dictonaries/obj/Debug/net7.0/dictonaries.csproj.CoreCompileInputs.cache
+/Users/justynamalinowska/Projects/dictonaries/dictonaries/obj/Debug/net7.0/dictonaries.dll
+/Users/justynamalinowska/Projects/dictonaries/dictonaries/obj/Debug/net7.0/refint/dictonaries.dll
+/Users/justynamalinowska/Projects/dictonaries/dictonaries/obj/Debug/net7.0/dictonaries.pdb
+/Users/justynamalinowska/Projects/dictonaries/dictonaries/obj/Debug/net7.0/dictonaries.genruntimeconfig.cache
+/Users/justynamalinowska/Projects/dictonaries/dictonaries/obj/Debug/net7.0/ref/dictonaries.dll

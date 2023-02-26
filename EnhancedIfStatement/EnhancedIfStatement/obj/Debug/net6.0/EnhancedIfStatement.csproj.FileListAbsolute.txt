@@ -1,0 +1,15 @@
+/Users/justynamalinowska/Projects/EnhancedIfStatement/EnhancedIfStatement/obj/Debug/net6.0/EnhancedIfStatement.csproj.AssemblyReference.cache
+/Users/justynamalinowska/Projects/EnhancedIfStatement/EnhancedIfStatement/obj/Debug/net6.0/EnhancedIfStatement.GeneratedMSBuildEditorConfig.editorconfig
+/Users/justynamalinowska/Projects/EnhancedIfStatement/EnhancedIfStatement/obj/Debug/net6.0/EnhancedIfStatement.AssemblyInfoInputs.cache
+/Users/justynamalinowska/Projects/EnhancedIfStatement/EnhancedIfStatement/obj/Debug/net6.0/EnhancedIfStatement.AssemblyInfo.cs
+/Users/justynamalinowska/Projects/EnhancedIfStatement/EnhancedIfStatement/obj/Debug/net6.0/EnhancedIfStatement.csproj.CoreCompileInputs.cache
+/Users/justynamalinowska/Projects/EnhancedIfStatement/EnhancedIfStatement/bin/Debug/net6.0/EnhancedIfStatement
+/Users/justynamalinowska/Projects/EnhancedIfStatement/EnhancedIfStatement/bin/Debug/net6.0/EnhancedIfStatement.deps.json
+/Users/justynamalinowska/Projects/EnhancedIfStatement/EnhancedIfStatement/bin/Debug/net6.0/EnhancedIfStatement.runtimeconfig.json
+/Users/justynamalinowska/Projects/EnhancedIfStatement/EnhancedIfStatement/bin/Debug/net6.0/EnhancedIfStatement.dll
+/Users/justynamalinowska/Projects/EnhancedIfStatement/EnhancedIfStatement/bin/Debug/net6.0/EnhancedIfStatement.pdb
+/Users/justynamalinowska/Projects/EnhancedIfStatement/EnhancedIfStatement/obj/Debug/net6.0/EnhancedIfStatement.dll
+/Users/justynamalinowska/Projects/EnhancedIfStatement/EnhancedIfStatement/obj/Debug/net6.0/refint/EnhancedIfStatement.dll
+/Users/justynamalinowska/Projects/EnhancedIfStatement/EnhancedIfStatement/obj/Debug/net6.0/EnhancedIfStatement.pdb
+/Users/justynamalinowska/Projects/EnhancedIfStatement/EnhancedIfStatement/obj/Debug/net6.0/EnhancedIfStatement.genruntimeconfig.cache
+/Users/justynamalinowska/Projects/EnhancedIfStatement/EnhancedIfStatement/obj/Debug/net6.0/ref/EnhancedIfStatement.dll

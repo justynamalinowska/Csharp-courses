@@ -1,0 +1,15 @@
+/Users/justynamalinowska/Projects/EmployeesBossesTrainees/EmployeesBossesTrainees/bin/Debug/net7.0/EmployeesBossesTrainees
+/Users/justynamalinowska/Projects/EmployeesBossesTrainees/EmployeesBossesTrainees/bin/Debug/net7.0/EmployeesBossesTrainees.deps.json
+/Users/justynamalinowska/Projects/EmployeesBossesTrainees/EmployeesBossesTrainees/bin/Debug/net7.0/EmployeesBossesTrainees.runtimeconfig.json
+/Users/justynamalinowska/Projects/EmployeesBossesTrainees/EmployeesBossesTrainees/bin/Debug/net7.0/EmployeesBossesTrainees.dll
+/Users/justynamalinowska/Projects/EmployeesBossesTrainees/EmployeesBossesTrainees/bin/Debug/net7.0/EmployeesBossesTrainees.pdb
+/Users/justynamalinowska/Projects/EmployeesBossesTrainees/EmployeesBossesTrainees/obj/Debug/net7.0/EmployeesBossesTrainees.csproj.AssemblyReference.cache
+/Users/justynamalinowska/Projects/EmployeesBossesTrainees/EmployeesBossesTrainees/obj/Debug/net7.0/EmployeesBossesTrainees.GeneratedMSBuildEditorConfig.editorconfig
+/Users/justynamalinowska/Projects/EmployeesBossesTrainees/EmployeesBossesTrainees/obj/Debug/net7.0/EmployeesBossesTrainees.AssemblyInfoInputs.cache
+/Users/justynamalinowska/Projects/EmployeesBossesTrainees/EmployeesBossesTrainees/obj/Debug/net7.0/EmployeesBossesTrainees.AssemblyInfo.cs
+/Users/justynamalinowska/Projects/EmployeesBossesTrainees/EmployeesBossesTrainees/obj/Debug/net7.0/EmployeesBossesTrainees.csproj.CoreCompileInputs.cache
+/Users/justynamalinowska/Projects/EmployeesBossesTrainees/EmployeesBossesTrainees/obj/Debug/net7.0/EmployeesBossesTrainees.dll
+/Users/justynamalinowska/Projects/EmployeesBossesTrainees/EmployeesBossesTrainees/obj/Debug/net7.0/refint/EmployeesBossesTrainees.dll
+/Users/justynamalinowska/Projects/EmployeesBossesTrainees/EmployeesBossesTrainees/obj/Debug/net7.0/EmployeesBossesTrainees.pdb
+/Users/justynamalinowska/Projects/EmployeesBossesTrainees/EmployeesBossesTrainees/obj/Debug/net7.0/EmployeesBossesTrainees.genruntimeconfig.cache
+/Users/justynamalinowska/Projects/EmployeesBossesTrainees/EmployeesBossesTrainees/obj/Debug/net7.0/ref/EmployeesBossesTrainees.dll
