@@ -1,0 +1,15 @@
+/Users/justynamalinowska/Projects/zad9/zad9/obj/Debug/net6.0/zad9.csproj.AssemblyReference.cache
+/Users/justynamalinowska/Projects/zad9/zad9/obj/Debug/net6.0/zad9.GeneratedMSBuildEditorConfig.editorconfig
+/Users/justynamalinowska/Projects/zad9/zad9/obj/Debug/net6.0/zad9.AssemblyInfoInputs.cache
+/Users/justynamalinowska/Projects/zad9/zad9/obj/Debug/net6.0/zad9.AssemblyInfo.cs
+/Users/justynamalinowska/Projects/zad9/zad9/obj/Debug/net6.0/zad9.csproj.CoreCompileInputs.cache
+/Users/justynamalinowska/Projects/zad9/zad9/bin/Debug/net6.0/zad9
+/Users/justynamalinowska/Projects/zad9/zad9/bin/Debug/net6.0/zad9.deps.json
+/Users/justynamalinowska/Projects/zad9/zad9/bin/Debug/net6.0/zad9.runtimeconfig.json
+/Users/justynamalinowska/Projects/zad9/zad9/bin/Debug/net6.0/zad9.dll
+/Users/justynamalinowska/Projects/zad9/zad9/bin/Debug/net6.0/zad9.pdb
+/Users/justynamalinowska/Projects/zad9/zad9/obj/Debug/net6.0/zad9.dll
+/Users/justynamalinowska/Projects/zad9/zad9/obj/Debug/net6.0/refint/zad9.dll
+/Users/justynamalinowska/Projects/zad9/zad9/obj/Debug/net6.0/zad9.pdb
+/Users/justynamalinowska/Projects/zad9/zad9/obj/Debug/net6.0/zad9.genruntimeconfig.cache
+/Users/justynamalinowska/Projects/zad9/zad9/obj/Debug/net6.0/ref/zad9.dll
