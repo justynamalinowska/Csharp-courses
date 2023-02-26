@@ -1,0 +1,15 @@
+/Users/justynamalinowska/Projects/Inheritance/Inheritance/bin/Debug/net7.0/Inheritance
+/Users/justynamalinowska/Projects/Inheritance/Inheritance/bin/Debug/net7.0/Inheritance.deps.json
+/Users/justynamalinowska/Projects/Inheritance/Inheritance/bin/Debug/net7.0/Inheritance.runtimeconfig.json
+/Users/justynamalinowska/Projects/Inheritance/Inheritance/bin/Debug/net7.0/Inheritance.dll
+/Users/justynamalinowska/Projects/Inheritance/Inheritance/bin/Debug/net7.0/Inheritance.pdb
+/Users/justynamalinowska/Projects/Inheritance/Inheritance/obj/Debug/net7.0/Inheritance.csproj.AssemblyReference.cache
+/Users/justynamalinowska/Projects/Inheritance/Inheritance/obj/Debug/net7.0/Inheritance.GeneratedMSBuildEditorConfig.editorconfig
+/Users/justynamalinowska/Projects/Inheritance/Inheritance/obj/Debug/net7.0/Inheritance.AssemblyInfoInputs.cache
+/Users/justynamalinowska/Projects/Inheritance/Inheritance/obj/Debug/net7.0/Inheritance.AssemblyInfo.cs
+/Users/justynamalinowska/Projects/Inheritance/Inheritance/obj/Debug/net7.0/Inheritance.csproj.CoreCompileInputs.cache
+/Users/justynamalinowska/Projects/Inheritance/Inheritance/obj/Debug/net7.0/Inheritance.dll
+/Users/justynamalinowska/Projects/Inheritance/Inheritance/obj/Debug/net7.0/refint/Inheritance.dll
+/Users/justynamalinowska/Projects/Inheritance/Inheritance/obj/Debug/net7.0/Inheritance.pdb
+/Users/justynamalinowska/Projects/Inheritance/Inheritance/obj/Debug/net7.0/Inheritance.genruntimeconfig.cache
+/Users/justynamalinowska/Projects/Inheritance/Inheritance/obj/Debug/net7.0/ref/Inheritance.dll

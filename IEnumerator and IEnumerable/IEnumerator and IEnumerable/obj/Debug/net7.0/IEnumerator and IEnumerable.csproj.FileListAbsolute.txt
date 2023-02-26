@@ -1,0 +1,15 @@
+/Users/justynamalinowska/Projects/IEnumerator and IEnumerable/IEnumerator and IEnumerable/bin/Debug/net7.0/IEnumerator and IEnumerable
+/Users/justynamalinowska/Projects/IEnumerator and IEnumerable/IEnumerator and IEnumerable/bin/Debug/net7.0/IEnumerator and IEnumerable.deps.json
+/Users/justynamalinowska/Projects/IEnumerator and IEnumerable/IEnumerator and IEnumerable/bin/Debug/net7.0/IEnumerator and IEnumerable.runtimeconfig.json
+/Users/justynamalinowska/Projects/IEnumerator and IEnumerable/IEnumerator and IEnumerable/bin/Debug/net7.0/IEnumerator and IEnumerable.dll
+/Users/justynamalinowska/Projects/IEnumerator and IEnumerable/IEnumerator and IEnumerable/bin/Debug/net7.0/IEnumerator and IEnumerable.pdb
+/Users/justynamalinowska/Projects/IEnumerator and IEnumerable/IEnumerator and IEnumerable/obj/Debug/net7.0/IEnumerator and IEnumerable.csproj.AssemblyReference.cache
+/Users/justynamalinowska/Projects/IEnumerator and IEnumerable/IEnumerator and IEnumerable/obj/Debug/net7.0/IEnumerator and IEnumerable.GeneratedMSBuildEditorConfig.editorconfig
+/Users/justynamalinowska/Projects/IEnumerator and IEnumerable/IEnumerator and IEnumerable/obj/Debug/net7.0/IEnumerator and IEnumerable.AssemblyInfoInputs.cache
+/Users/justynamalinowska/Projects/IEnumerator and IEnumerable/IEnumerator and IEnumerable/obj/Debug/net7.0/IEnumerator and IEnumerable.AssemblyInfo.cs
+/Users/justynamalinowska/Projects/IEnumerator and IEnumerable/IEnumerator and IEnumerable/obj/Debug/net7.0/IEnumerator and IEnumerable.csproj.CoreCompileInputs.cache
+/Users/justynamalinowska/Projects/IEnumerator and IEnumerable/IEnumerator and IEnumerable/obj/Debug/net7.0/IEnumerator and IEnumerable.dll
+/Users/justynamalinowska/Projects/IEnumerator and IEnumerable/IEnumerator and IEnumerable/obj/Debug/net7.0/refint/IEnumerator and IEnumerable.dll
+/Users/justynamalinowska/Projects/IEnumerator and IEnumerable/IEnumerator and IEnumerable/obj/Debug/net7.0/IEnumerator and IEnumerable.pdb
+/Users/justynamalinowska/Projects/IEnumerator and IEnumerable/IEnumerator and IEnumerable/obj/Debug/net7.0/IEnumerator and IEnumerable.genruntimeconfig.cache
+/Users/justynamalinowska/Projects/IEnumerator and IEnumerable/IEnumerator and IEnumerable/obj/Debug/net7.0/ref/IEnumerator and IEnumerable.dll
