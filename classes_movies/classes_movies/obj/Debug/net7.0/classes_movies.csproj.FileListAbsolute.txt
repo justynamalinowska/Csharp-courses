@@ -1,0 +1,15 @@
+/Users/justynamalinowska/Projects/classes_movies/classes_movies/bin/Debug/net7.0/classes_movies
+/Users/justynamalinowska/Projects/classes_movies/classes_movies/bin/Debug/net7.0/classes_movies.deps.json
+/Users/justynamalinowska/Projects/classes_movies/classes_movies/bin/Debug/net7.0/classes_movies.runtimeconfig.json
+/Users/justynamalinowska/Projects/classes_movies/classes_movies/bin/Debug/net7.0/classes_movies.dll
+/Users/justynamalinowska/Projects/classes_movies/classes_movies/bin/Debug/net7.0/classes_movies.pdb
+/Users/justynamalinowska/Projects/classes_movies/classes_movies/obj/Debug/net7.0/classes_movies.csproj.AssemblyReference.cache
+/Users/justynamalinowska/Projects/classes_movies/classes_movies/obj/Debug/net7.0/classes_movies.GeneratedMSBuildEditorConfig.editorconfig
+/Users/justynamalinowska/Projects/classes_movies/classes_movies/obj/Debug/net7.0/classes_movies.AssemblyInfoInputs.cache
+/Users/justynamalinowska/Projects/classes_movies/classes_movies/obj/Debug/net7.0/classes_movies.AssemblyInfo.cs
+/Users/justynamalinowska/Projects/classes_movies/classes_movies/obj/Debug/net7.0/classes_movies.csproj.CoreCompileInputs.cache
+/Users/justynamalinowska/Projects/classes_movies/classes_movies/obj/Debug/net7.0/classes_movies.dll
+/Users/justynamalinowska/Projects/classes_movies/classes_movies/obj/Debug/net7.0/refint/classes_movies.dll
+/Users/justynamalinowska/Projects/classes_movies/classes_movies/obj/Debug/net7.0/classes_movies.pdb
+/Users/justynamalinowska/Projects/classes_movies/classes_movies/obj/Debug/net7.0/classes_movies.genruntimeconfig.cache
+/Users/justynamalinowska/Projects/classes_movies/classes_movies/obj/Debug/net7.0/ref/classes_movies.dll

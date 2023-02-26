@@ -1,0 +1,15 @@
+/Users/justynamalinowska/Projects/ArrayList/ArrayList/bin/Debug/net6.0/ArrayList
+/Users/justynamalinowska/Projects/ArrayList/ArrayList/bin/Debug/net6.0/ArrayList.deps.json
+/Users/justynamalinowska/Projects/ArrayList/ArrayList/bin/Debug/net6.0/ArrayList.runtimeconfig.json
+/Users/justynamalinowska/Projects/ArrayList/ArrayList/bin/Debug/net6.0/ArrayList.dll
+/Users/justynamalinowska/Projects/ArrayList/ArrayList/bin/Debug/net6.0/ArrayList.pdb
+/Users/justynamalinowska/Projects/ArrayList/ArrayList/obj/Debug/net6.0/ArrayList.csproj.AssemblyReference.cache
+/Users/justynamalinowska/Projects/ArrayList/ArrayList/obj/Debug/net6.0/ArrayList.GeneratedMSBuildEditorConfig.editorconfig
+/Users/justynamalinowska/Projects/ArrayList/ArrayList/obj/Debug/net6.0/ArrayList.AssemblyInfoInputs.cache
+/Users/justynamalinowska/Projects/ArrayList/ArrayList/obj/Debug/net6.0/ArrayList.AssemblyInfo.cs
+/Users/justynamalinowska/Projects/ArrayList/ArrayList/obj/Debug/net6.0/ArrayList.csproj.CoreCompileInputs.cache
+/Users/justynamalinowska/Projects/ArrayList/ArrayList/obj/Debug/net6.0/ArrayList.dll
+/Users/justynamalinowska/Projects/ArrayList/ArrayList/obj/Debug/net6.0/refint/ArrayList.dll
+/Users/justynamalinowska/Projects/ArrayList/ArrayList/obj/Debug/net6.0/ArrayList.pdb
+/Users/justynamalinowska/Projects/ArrayList/ArrayList/obj/Debug/net6.0/ArrayList.genruntimeconfig.cache
+/Users/justynamalinowska/Projects/ArrayList/ArrayList/obj/Debug/net6.0/ref/ArrayList.dll
