@@ -1,0 +1,15 @@
+/Users/justynamalinowska/Projects/DictionaryPractise/DictionaryPractise/bin/Debug/net7.0/DictionaryPractise
+/Users/justynamalinowska/Projects/DictionaryPractise/DictionaryPractise/bin/Debug/net7.0/DictionaryPractise.deps.json
+/Users/justynamalinowska/Projects/DictionaryPractise/DictionaryPractise/bin/Debug/net7.0/DictionaryPractise.runtimeconfig.json
+/Users/justynamalinowska/Projects/DictionaryPractise/DictionaryPractise/bin/Debug/net7.0/DictionaryPractise.dll
+/Users/justynamalinowska/Projects/DictionaryPractise/DictionaryPractise/bin/Debug/net7.0/DictionaryPractise.pdb
+/Users/justynamalinowska/Projects/DictionaryPractise/DictionaryPractise/obj/Debug/net7.0/DictionaryPractise.csproj.AssemblyReference.cache
+/Users/justynamalinowska/Projects/DictionaryPractise/DictionaryPractise/obj/Debug/net7.0/DictionaryPractise.GeneratedMSBuildEditorConfig.editorconfig
+/Users/justynamalinowska/Projects/DictionaryPractise/DictionaryPractise/obj/Debug/net7.0/DictionaryPractise.AssemblyInfoInputs.cache
+/Users/justynamalinowska/Projects/DictionaryPractise/DictionaryPractise/obj/Debug/net7.0/DictionaryPractise.AssemblyInfo.cs
+/Users/justynamalinowska/Projects/DictionaryPractise/DictionaryPractise/obj/Debug/net7.0/DictionaryPractise.csproj.CoreCompileInputs.cache
+/Users/justynamalinowska/Projects/DictionaryPractise/DictionaryPractise/obj/Debug/net7.0/DictionaryPractise.dll
+/Users/justynamalinowska/Projects/DictionaryPractise/DictionaryPractise/obj/Debug/net7.0/refint/DictionaryPractise.dll
+/Users/justynamalinowska/Projects/DictionaryPractise/DictionaryPractise/obj/Debug/net7.0/DictionaryPractise.pdb
+/Users/justynamalinowska/Projects/DictionaryPractise/DictionaryPractise/obj/Debug/net7.0/DictionaryPractise.genruntimeconfig.cache
+/Users/justynamalinowska/Projects/DictionaryPractise/DictionaryPractise/obj/Debug/net7.0/ref/DictionaryPractise.dll

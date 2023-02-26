@@ -1,0 +1,15 @@
+/Users/justynamalinowska/Projects/Delegates2/Delegates2/obj/Debug/net7.0/Delegates2.csproj.AssemblyReference.cache
+/Users/justynamalinowska/Projects/Delegates2/Delegates2/obj/Debug/net7.0/Delegates2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/justynamalinowska/Projects/Delegates2/Delegates2/obj/Debug/net7.0/Delegates2.AssemblyInfoInputs.cache
+/Users/justynamalinowska/Projects/Delegates2/Delegates2/obj/Debug/net7.0/Delegates2.AssemblyInfo.cs
+/Users/justynamalinowska/Projects/Delegates2/Delegates2/obj/Debug/net7.0/Delegates2.csproj.CoreCompileInputs.cache
+/Users/justynamalinowska/Projects/Delegates2/Delegates2/bin/Debug/net7.0/Delegates2
+/Users/justynamalinowska/Projects/Delegates2/Delegates2/bin/Debug/net7.0/Delegates2.deps.json
+/Users/justynamalinowska/Projects/Delegates2/Delegates2/bin/Debug/net7.0/Delegates2.runtimeconfig.json
+/Users/justynamalinowska/Projects/Delegates2/Delegates2/bin/Debug/net7.0/Delegates2.dll
+/Users/justynamalinowska/Projects/Delegates2/Delegates2/bin/Debug/net7.0/Delegates2.pdb
+/Users/justynamalinowska/Projects/Delegates2/Delegates2/obj/Debug/net7.0/Delegates2.dll
+/Users/justynamalinowska/Projects/Delegates2/Delegates2/obj/Debug/net7.0/refint/Delegates2.dll
+/Users/justynamalinowska/Projects/Delegates2/Delegates2/obj/Debug/net7.0/Delegates2.pdb
+/Users/justynamalinowska/Projects/Delegates2/Delegates2/obj/Debug/net7.0/Delegates2.genruntimeconfig.cache
+/Users/justynamalinowska/Projects/Delegates2/Delegates2/obj/Debug/net7.0/ref/Delegates2.dll
