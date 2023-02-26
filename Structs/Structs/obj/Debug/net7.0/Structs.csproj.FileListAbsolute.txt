@@ -1,0 +1,15 @@
+/Users/justynamalinowska/Projects/Structs/Structs/bin/Debug/net7.0/Structs
+/Users/justynamalinowska/Projects/Structs/Structs/bin/Debug/net7.0/Structs.deps.json
+/Users/justynamalinowska/Projects/Structs/Structs/bin/Debug/net7.0/Structs.runtimeconfig.json
+/Users/justynamalinowska/Projects/Structs/Structs/bin/Debug/net7.0/Structs.dll
+/Users/justynamalinowska/Projects/Structs/Structs/bin/Debug/net7.0/Structs.pdb
+/Users/justynamalinowska/Projects/Structs/Structs/obj/Debug/net7.0/Structs.csproj.AssemblyReference.cache
+/Users/justynamalinowska/Projects/Structs/Structs/obj/Debug/net7.0/Structs.GeneratedMSBuildEditorConfig.editorconfig
+/Users/justynamalinowska/Projects/Structs/Structs/obj/Debug/net7.0/Structs.AssemblyInfoInputs.cache
+/Users/justynamalinowska/Projects/Structs/Structs/obj/Debug/net7.0/Structs.AssemblyInfo.cs
+/Users/justynamalinowska/Projects/Structs/Structs/obj/Debug/net7.0/Structs.csproj.CoreCompileInputs.cache
+/Users/justynamalinowska/Projects/Structs/Structs/obj/Debug/net7.0/Structs.dll
+/Users/justynamalinowska/Projects/Structs/Structs/obj/Debug/net7.0/refint/Structs.dll
+/Users/justynamalinowska/Projects/Structs/Structs/obj/Debug/net7.0/Structs.pdb
+/Users/justynamalinowska/Projects/Structs/Structs/obj/Debug/net7.0/Structs.genruntimeconfig.cache
+/Users/justynamalinowska/Projects/Structs/Structs/obj/Debug/net7.0/ref/Structs.dll

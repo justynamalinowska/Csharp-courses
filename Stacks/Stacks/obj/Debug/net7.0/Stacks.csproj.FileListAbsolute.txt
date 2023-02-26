@@ -1,0 +1,15 @@
+/Users/justynamalinowska/Projects/Stacks/Stacks/bin/Debug/net7.0/Stacks
+/Users/justynamalinowska/Projects/Stacks/Stacks/bin/Debug/net7.0/Stacks.deps.json
+/Users/justynamalinowska/Projects/Stacks/Stacks/bin/Debug/net7.0/Stacks.runtimeconfig.json
+/Users/justynamalinowska/Projects/Stacks/Stacks/bin/Debug/net7.0/Stacks.dll
+/Users/justynamalinowska/Projects/Stacks/Stacks/bin/Debug/net7.0/Stacks.pdb
+/Users/justynamalinowska/Projects/Stacks/Stacks/obj/Debug/net7.0/Stacks.csproj.AssemblyReference.cache
+/Users/justynamalinowska/Projects/Stacks/Stacks/obj/Debug/net7.0/Stacks.GeneratedMSBuildEditorConfig.editorconfig
+/Users/justynamalinowska/Projects/Stacks/Stacks/obj/Debug/net7.0/Stacks.AssemblyInfoInputs.cache
+/Users/justynamalinowska/Projects/Stacks/Stacks/obj/Debug/net7.0/Stacks.AssemblyInfo.cs
+/Users/justynamalinowska/Projects/Stacks/Stacks/obj/Debug/net7.0/Stacks.csproj.CoreCompileInputs.cache
+/Users/justynamalinowska/Projects/Stacks/Stacks/obj/Debug/net7.0/Stacks.dll
+/Users/justynamalinowska/Projects/Stacks/Stacks/obj/Debug/net7.0/refint/Stacks.dll
+/Users/justynamalinowska/Projects/Stacks/Stacks/obj/Debug/net7.0/Stacks.pdb
+/Users/justynamalinowska/Projects/Stacks/Stacks/obj/Debug/net7.0/Stacks.genruntimeconfig.cache
+/Users/justynamalinowska/Projects/Stacks/Stacks/obj/Debug/net7.0/ref/Stacks.dll

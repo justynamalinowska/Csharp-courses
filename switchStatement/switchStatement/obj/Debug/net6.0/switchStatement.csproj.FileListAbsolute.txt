@@ -1,0 +1,15 @@
+/Users/justynamalinowska/Projects/switchStatement/switchStatement/bin/Debug/net6.0/switchStatement
+/Users/justynamalinowska/Projects/switchStatement/switchStatement/bin/Debug/net6.0/switchStatement.deps.json
+/Users/justynamalinowska/Projects/switchStatement/switchStatement/bin/Debug/net6.0/switchStatement.runtimeconfig.json
+/Users/justynamalinowska/Projects/switchStatement/switchStatement/bin/Debug/net6.0/switchStatement.dll
+/Users/justynamalinowska/Projects/switchStatement/switchStatement/bin/Debug/net6.0/switchStatement.pdb
+/Users/justynamalinowska/Projects/switchStatement/switchStatement/obj/Debug/net6.0/switchStatement.csproj.AssemblyReference.cache
+/Users/justynamalinowska/Projects/switchStatement/switchStatement/obj/Debug/net6.0/switchStatement.GeneratedMSBuildEditorConfig.editorconfig
+/Users/justynamalinowska/Projects/switchStatement/switchStatement/obj/Debug/net6.0/switchStatement.AssemblyInfoInputs.cache
+/Users/justynamalinowska/Projects/switchStatement/switchStatement/obj/Debug/net6.0/switchStatement.AssemblyInfo.cs
+/Users/justynamalinowska/Projects/switchStatement/switchStatement/obj/Debug/net6.0/switchStatement.csproj.CoreCompileInputs.cache
+/Users/justynamalinowska/Projects/switchStatement/switchStatement/obj/Debug/net6.0/switchStatement.dll
+/Users/justynamalinowska/Projects/switchStatement/switchStatement/obj/Debug/net6.0/refint/switchStatement.dll
+/Users/justynamalinowska/Projects/switchStatement/switchStatement/obj/Debug/net6.0/switchStatement.pdb
+/Users/justynamalinowska/Projects/switchStatement/switchStatement/obj/Debug/net6.0/switchStatement.genruntimeconfig.cache
+/Users/justynamalinowska/Projects/switchStatement/switchStatement/obj/Debug/net6.0/ref/switchStatement.dll
