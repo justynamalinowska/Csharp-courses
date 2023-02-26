@@ -1,0 +1,15 @@
+/Users/justynamalinowska/Projects/Queue/Queue/bin/Debug/net7.0/Queue
+/Users/justynamalinowska/Projects/Queue/Queue/bin/Debug/net7.0/Queue.deps.json
+/Users/justynamalinowska/Projects/Queue/Queue/bin/Debug/net7.0/Queue.runtimeconfig.json
+/Users/justynamalinowska/Projects/Queue/Queue/bin/Debug/net7.0/Queue.dll
+/Users/justynamalinowska/Projects/Queue/Queue/bin/Debug/net7.0/Queue.pdb
+/Users/justynamalinowska/Projects/Queue/Queue/obj/Debug/net7.0/Queue.csproj.AssemblyReference.cache
+/Users/justynamalinowska/Projects/Queue/Queue/obj/Debug/net7.0/Queue.GeneratedMSBuildEditorConfig.editorconfig
+/Users/justynamalinowska/Projects/Queue/Queue/obj/Debug/net7.0/Queue.AssemblyInfoInputs.cache
+/Users/justynamalinowska/Projects/Queue/Queue/obj/Debug/net7.0/Queue.AssemblyInfo.cs
+/Users/justynamalinowska/Projects/Queue/Queue/obj/Debug/net7.0/Queue.csproj.CoreCompileInputs.cache
+/Users/justynamalinowska/Projects/Queue/Queue/obj/Debug/net7.0/Queue.dll
+/Users/justynamalinowska/Projects/Queue/Queue/obj/Debug/net7.0/refint/Queue.dll
+/Users/justynamalinowska/Projects/Queue/Queue/obj/Debug/net7.0/Queue.pdb
+/Users/justynamalinowska/Projects/Queue/Queue/obj/Debug/net7.0/Queue.genruntimeconfig.cache
+/Users/justynamalinowska/Projects/Queue/Queue/obj/Debug/net7.0/ref/Queue.dll

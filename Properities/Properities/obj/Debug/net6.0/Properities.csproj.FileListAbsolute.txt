@@ -1,0 +1,15 @@
+/Users/justynamalinowska/Projects/Properities/Properities/bin/Debug/net6.0/Properities
+/Users/justynamalinowska/Projects/Properities/Properities/bin/Debug/net6.0/Properities.deps.json
+/Users/justynamalinowska/Projects/Properities/Properities/bin/Debug/net6.0/Properities.runtimeconfig.json
+/Users/justynamalinowska/Projects/Properities/Properities/bin/Debug/net6.0/Properities.dll
+/Users/justynamalinowska/Projects/Properities/Properities/bin/Debug/net6.0/Properities.pdb
+/Users/justynamalinowska/Projects/Properities/Properities/obj/Debug/net6.0/Properities.csproj.AssemblyReference.cache
+/Users/justynamalinowska/Projects/Properities/Properities/obj/Debug/net6.0/Properities.GeneratedMSBuildEditorConfig.editorconfig
+/Users/justynamalinowska/Projects/Properities/Properities/obj/Debug/net6.0/Properities.AssemblyInfoInputs.cache
+/Users/justynamalinowska/Projects/Properities/Properities/obj/Debug/net6.0/Properities.AssemblyInfo.cs
+/Users/justynamalinowska/Projects/Properities/Properities/obj/Debug/net6.0/Properities.csproj.CoreCompileInputs.cache
+/Users/justynamalinowska/Projects/Properities/Properities/obj/Debug/net6.0/Properities.dll
+/Users/justynamalinowska/Projects/Properities/Properities/obj/Debug/net6.0/refint/Properities.dll
+/Users/justynamalinowska/Projects/Properities/Properities/obj/Debug/net6.0/Properities.pdb
+/Users/justynamalinowska/Projects/Properities/Properities/obj/Debug/net6.0/Properities.genruntimeconfig.cache
+/Users/justynamalinowska/Projects/Properities/Properities/obj/Debug/net6.0/ref/Properities.dll
