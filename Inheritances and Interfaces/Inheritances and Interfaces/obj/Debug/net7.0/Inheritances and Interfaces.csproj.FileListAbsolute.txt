@@ -1,0 +1,15 @@
+/Users/justynamalinowska/Projects/Inheritances and Interfaces/Inheritances and Interfaces/obj/Debug/net7.0/Inheritances and Interfaces.csproj.AssemblyReference.cache
+/Users/justynamalinowska/Projects/Inheritances and Interfaces/Inheritances and Interfaces/obj/Debug/net7.0/Inheritances and Interfaces.GeneratedMSBuildEditorConfig.editorconfig
+/Users/justynamalinowska/Projects/Inheritances and Interfaces/Inheritances and Interfaces/obj/Debug/net7.0/Inheritances and Interfaces.AssemblyInfoInputs.cache
+/Users/justynamalinowska/Projects/Inheritances and Interfaces/Inheritances and Interfaces/obj/Debug/net7.0/Inheritances and Interfaces.AssemblyInfo.cs
+/Users/justynamalinowska/Projects/Inheritances and Interfaces/Inheritances and Interfaces/obj/Debug/net7.0/Inheritances and Interfaces.csproj.CoreCompileInputs.cache
+/Users/justynamalinowska/Projects/Inheritances and Interfaces/Inheritances and Interfaces/bin/Debug/net7.0/Inheritances and Interfaces
+/Users/justynamalinowska/Projects/Inheritances and Interfaces/Inheritances and Interfaces/bin/Debug/net7.0/Inheritances and Interfaces.deps.json
+/Users/justynamalinowska/Projects/Inheritances and Interfaces/Inheritances and Interfaces/bin/Debug/net7.0/Inheritances and Interfaces.runtimeconfig.json
+/Users/justynamalinowska/Projects/Inheritances and Interfaces/Inheritances and Interfaces/bin/Debug/net7.0/Inheritances and Interfaces.dll
+/Users/justynamalinowska/Projects/Inheritances and Interfaces/Inheritances and Interfaces/bin/Debug/net7.0/Inheritances and Interfaces.pdb
+/Users/justynamalinowska/Projects/Inheritances and Interfaces/Inheritances and Interfaces/obj/Debug/net7.0/Inheritances and Interfaces.dll
+/Users/justynamalinowska/Projects/Inheritances and Interfaces/Inheritances and Interfaces/obj/Debug/net7.0/refint/Inheritances and Interfaces.dll
+/Users/justynamalinowska/Projects/Inheritances and Interfaces/Inheritances and Interfaces/obj/Debug/net7.0/Inheritances and Interfaces.pdb
+/Users/justynamalinowska/Projects/Inheritances and Interfaces/Inheritances and Interfaces/obj/Debug/net7.0/Inheritances and Interfaces.genruntimeconfig.cache
+/Users/justynamalinowska/Projects/Inheritances and Interfaces/Inheritances and Interfaces/obj/Debug/net7.0/ref/Inheritances and Interfaces.dll
