@@ -1,0 +1,15 @@
+/Users/justynamalinowska/Projects/exception/exception/bin/Debug/net7.0/exception
+/Users/justynamalinowska/Projects/exception/exception/bin/Debug/net7.0/exception.deps.json
+/Users/justynamalinowska/Projects/exception/exception/bin/Debug/net7.0/exception.runtimeconfig.json
+/Users/justynamalinowska/Projects/exception/exception/bin/Debug/net7.0/exception.dll
+/Users/justynamalinowska/Projects/exception/exception/bin/Debug/net7.0/exception.pdb
+/Users/justynamalinowska/Projects/exception/exception/obj/Debug/net7.0/exception.csproj.AssemblyReference.cache
+/Users/justynamalinowska/Projects/exception/exception/obj/Debug/net7.0/exception.GeneratedMSBuildEditorConfig.editorconfig
+/Users/justynamalinowska/Projects/exception/exception/obj/Debug/net7.0/exception.AssemblyInfoInputs.cache
+/Users/justynamalinowska/Projects/exception/exception/obj/Debug/net7.0/exception.AssemblyInfo.cs
+/Users/justynamalinowska/Projects/exception/exception/obj/Debug/net7.0/exception.csproj.CoreCompileInputs.cache
+/Users/justynamalinowska/Projects/exception/exception/obj/Debug/net7.0/exception.dll
+/Users/justynamalinowska/Projects/exception/exception/obj/Debug/net7.0/refint/exception.dll
+/Users/justynamalinowska/Projects/exception/exception/obj/Debug/net7.0/exception.pdb
+/Users/justynamalinowska/Projects/exception/exception/obj/Debug/net7.0/exception.genruntimeconfig.cache
+/Users/justynamalinowska/Projects/exception/exception/obj/Debug/net7.0/ref/exception.dll

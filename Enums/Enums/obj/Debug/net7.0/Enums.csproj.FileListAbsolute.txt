@@ -1,0 +1,15 @@
+/Users/justynamalinowska/Projects/Enums/Enums/bin/Debug/net7.0/Enums
+/Users/justynamalinowska/Projects/Enums/Enums/bin/Debug/net7.0/Enums.deps.json
+/Users/justynamalinowska/Projects/Enums/Enums/bin/Debug/net7.0/Enums.runtimeconfig.json
+/Users/justynamalinowska/Projects/Enums/Enums/bin/Debug/net7.0/Enums.dll
+/Users/justynamalinowska/Projects/Enums/Enums/bin/Debug/net7.0/Enums.pdb
+/Users/justynamalinowska/Projects/Enums/Enums/obj/Debug/net7.0/Enums.csproj.AssemblyReference.cache
+/Users/justynamalinowska/Projects/Enums/Enums/obj/Debug/net7.0/Enums.GeneratedMSBuildEditorConfig.editorconfig
+/Users/justynamalinowska/Projects/Enums/Enums/obj/Debug/net7.0/Enums.AssemblyInfoInputs.cache
+/Users/justynamalinowska/Projects/Enums/Enums/obj/Debug/net7.0/Enums.AssemblyInfo.cs
+/Users/justynamalinowska/Projects/Enums/Enums/obj/Debug/net7.0/Enums.csproj.CoreCompileInputs.cache
+/Users/justynamalinowska/Projects/Enums/Enums/obj/Debug/net7.0/Enums.dll
+/Users/justynamalinowska/Projects/Enums/Enums/obj/Debug/net7.0/refint/Enums.dll
+/Users/justynamalinowska/Projects/Enums/Enums/obj/Debug/net7.0/Enums.pdb
+/Users/justynamalinowska/Projects/Enums/Enums/obj/Debug/net7.0/Enums.genruntimeconfig.cache
+/Users/justynamalinowska/Projects/Enums/Enums/obj/Debug/net7.0/ref/Enums.dll

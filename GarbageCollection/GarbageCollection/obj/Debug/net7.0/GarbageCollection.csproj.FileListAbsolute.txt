@@ -1,0 +1,15 @@
+/Users/justynamalinowska/Projects/GarbageCollection/GarbageCollection/bin/Debug/net7.0/GarbageCollection
+/Users/justynamalinowska/Projects/GarbageCollection/GarbageCollection/bin/Debug/net7.0/GarbageCollection.deps.json
+/Users/justynamalinowska/Projects/GarbageCollection/GarbageCollection/bin/Debug/net7.0/GarbageCollection.runtimeconfig.json
+/Users/justynamalinowska/Projects/GarbageCollection/GarbageCollection/bin/Debug/net7.0/GarbageCollection.dll
+/Users/justynamalinowska/Projects/GarbageCollection/GarbageCollection/bin/Debug/net7.0/GarbageCollection.pdb
+/Users/justynamalinowska/Projects/GarbageCollection/GarbageCollection/obj/Debug/net7.0/GarbageCollection.csproj.AssemblyReference.cache
+/Users/justynamalinowska/Projects/GarbageCollection/GarbageCollection/obj/Debug/net7.0/GarbageCollection.GeneratedMSBuildEditorConfig.editorconfig
+/Users/justynamalinowska/Projects/GarbageCollection/GarbageCollection/obj/Debug/net7.0/GarbageCollection.AssemblyInfoInputs.cache
+/Users/justynamalinowska/Projects/GarbageCollection/GarbageCollection/obj/Debug/net7.0/GarbageCollection.AssemblyInfo.cs
+/Users/justynamalinowska/Projects/GarbageCollection/GarbageCollection/obj/Debug/net7.0/GarbageCollection.csproj.CoreCompileInputs.cache
+/Users/justynamalinowska/Projects/GarbageCollection/GarbageCollection/obj/Debug/net7.0/GarbageCollection.dll
+/Users/justynamalinowska/Projects/GarbageCollection/GarbageCollection/obj/Debug/net7.0/refint/GarbageCollection.dll
+/Users/justynamalinowska/Projects/GarbageCollection/GarbageCollection/obj/Debug/net7.0/GarbageCollection.pdb
+/Users/justynamalinowska/Projects/GarbageCollection/GarbageCollection/obj/Debug/net7.0/GarbageCollection.genruntimeconfig.cache
+/Users/justynamalinowska/Projects/GarbageCollection/GarbageCollection/obj/Debug/net7.0/ref/GarbageCollection.dll
