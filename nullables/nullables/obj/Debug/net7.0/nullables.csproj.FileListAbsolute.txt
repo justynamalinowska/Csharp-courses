@@ -1,0 +1,15 @@
+/Users/justynamalinowska/Projects/nullables/nullables/bin/Debug/net7.0/nullables
+/Users/justynamalinowska/Projects/nullables/nullables/bin/Debug/net7.0/nullables.deps.json
+/Users/justynamalinowska/Projects/nullables/nullables/bin/Debug/net7.0/nullables.runtimeconfig.json
+/Users/justynamalinowska/Projects/nullables/nullables/bin/Debug/net7.0/nullables.dll
+/Users/justynamalinowska/Projects/nullables/nullables/bin/Debug/net7.0/nullables.pdb
+/Users/justynamalinowska/Projects/nullables/nullables/obj/Debug/net7.0/nullables.csproj.AssemblyReference.cache
+/Users/justynamalinowska/Projects/nullables/nullables/obj/Debug/net7.0/nullables.GeneratedMSBuildEditorConfig.editorconfig
+/Users/justynamalinowska/Projects/nullables/nullables/obj/Debug/net7.0/nullables.AssemblyInfoInputs.cache
+/Users/justynamalinowska/Projects/nullables/nullables/obj/Debug/net7.0/nullables.AssemblyInfo.cs
+/Users/justynamalinowska/Projects/nullables/nullables/obj/Debug/net7.0/nullables.csproj.CoreCompileInputs.cache
+/Users/justynamalinowska/Projects/nullables/nullables/obj/Debug/net7.0/nullables.dll
+/Users/justynamalinowska/Projects/nullables/nullables/obj/Debug/net7.0/refint/nullables.dll
+/Users/justynamalinowska/Projects/nullables/nullables/obj/Debug/net7.0/nullables.pdb
+/Users/justynamalinowska/Projects/nullables/nullables/obj/Debug/net7.0/nullables.genruntimeconfig.cache
+/Users/justynamalinowska/Projects/nullables/nullables/obj/Debug/net7.0/ref/nullables.dll

@@ -1,0 +1,5 @@
+/Users/justynamalinowska/Projects/MathEx/MathEx/obj/Debug/net7.0/MathEx.csproj.AssemblyReference.cache
+/Users/justynamalinowska/Projects/MathEx/MathEx/obj/Debug/net7.0/MathEx.GeneratedMSBuildEditorConfig.editorconfig
+/Users/justynamalinowska/Projects/MathEx/MathEx/obj/Debug/net7.0/MathEx.AssemblyInfoInputs.cache
+/Users/justynamalinowska/Projects/MathEx/MathEx/obj/Debug/net7.0/MathEx.AssemblyInfo.cs
+/Users/justynamalinowska/Projects/MathEx/MathEx/obj/Debug/net7.0/MathEx.csproj.CoreCompileInputs.cache

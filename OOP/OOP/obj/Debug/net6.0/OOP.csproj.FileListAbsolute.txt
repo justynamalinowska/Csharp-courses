@@ -1,0 +1,15 @@
+/Users/justynamalinowska/Projects/OOP/OOP/obj/Debug/net6.0/OOP.csproj.AssemblyReference.cache
+/Users/justynamalinowska/Projects/OOP/OOP/obj/Debug/net6.0/OOP.GeneratedMSBuildEditorConfig.editorconfig
+/Users/justynamalinowska/Projects/OOP/OOP/obj/Debug/net6.0/OOP.AssemblyInfoInputs.cache
+/Users/justynamalinowska/Projects/OOP/OOP/obj/Debug/net6.0/OOP.AssemblyInfo.cs
+/Users/justynamalinowska/Projects/OOP/OOP/obj/Debug/net6.0/OOP.csproj.CoreCompileInputs.cache
+/Users/justynamalinowska/Projects/OOP/OOP/bin/Debug/net6.0/OOP
+/Users/justynamalinowska/Projects/OOP/OOP/bin/Debug/net6.0/OOP.deps.json
+/Users/justynamalinowska/Projects/OOP/OOP/bin/Debug/net6.0/OOP.runtimeconfig.json
+/Users/justynamalinowska/Projects/OOP/OOP/bin/Debug/net6.0/OOP.dll
+/Users/justynamalinowska/Projects/OOP/OOP/bin/Debug/net6.0/OOP.pdb
+/Users/justynamalinowska/Projects/OOP/OOP/obj/Debug/net6.0/OOP.dll
+/Users/justynamalinowska/Projects/OOP/OOP/obj/Debug/net6.0/refint/OOP.dll
+/Users/justynamalinowska/Projects/OOP/OOP/obj/Debug/net6.0/OOP.pdb
+/Users/justynamalinowska/Projects/OOP/OOP/obj/Debug/net6.0/OOP.genruntimeconfig.cache
+/Users/justynamalinowska/Projects/OOP/OOP/obj/Debug/net6.0/ref/OOP.dll
