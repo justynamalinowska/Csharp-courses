@@ -1,0 +1,15 @@
+/Users/justynamalinowska/Projects/2darray/2darray/bin/Debug/net6.0/2darray
+/Users/justynamalinowska/Projects/2darray/2darray/bin/Debug/net6.0/2darray.deps.json
+/Users/justynamalinowska/Projects/2darray/2darray/bin/Debug/net6.0/2darray.runtimeconfig.json
+/Users/justynamalinowska/Projects/2darray/2darray/bin/Debug/net6.0/2darray.dll
+/Users/justynamalinowska/Projects/2darray/2darray/bin/Debug/net6.0/2darray.pdb
+/Users/justynamalinowska/Projects/2darray/2darray/obj/Debug/net6.0/2darray.csproj.AssemblyReference.cache
+/Users/justynamalinowska/Projects/2darray/2darray/obj/Debug/net6.0/2darray.GeneratedMSBuildEditorConfig.editorconfig
+/Users/justynamalinowska/Projects/2darray/2darray/obj/Debug/net6.0/2darray.AssemblyInfoInputs.cache
+/Users/justynamalinowska/Projects/2darray/2darray/obj/Debug/net6.0/2darray.AssemblyInfo.cs
+/Users/justynamalinowska/Projects/2darray/2darray/obj/Debug/net6.0/2darray.csproj.CoreCompileInputs.cache
+/Users/justynamalinowska/Projects/2darray/2darray/obj/Debug/net6.0/2darray.dll
+/Users/justynamalinowska/Projects/2darray/2darray/obj/Debug/net6.0/refint/2darray.dll
+/Users/justynamalinowska/Projects/2darray/2darray/obj/Debug/net6.0/2darray.pdb
+/Users/justynamalinowska/Projects/2darray/2darray/obj/Debug/net6.0/2darray.genruntimeconfig.cache
+/Users/justynamalinowska/Projects/2darray/2darray/obj/Debug/net6.0/ref/2darray.dll

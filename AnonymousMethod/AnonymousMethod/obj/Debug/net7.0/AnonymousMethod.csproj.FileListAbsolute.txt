@@ -1,0 +1,15 @@
+/Users/justynamalinowska/Projects/AnonymousMethod/AnonymousMethod/obj/Debug/net7.0/AnonymousMethod.csproj.AssemblyReference.cache
+/Users/justynamalinowska/Projects/AnonymousMethod/AnonymousMethod/obj/Debug/net7.0/AnonymousMethod.GeneratedMSBuildEditorConfig.editorconfig
+/Users/justynamalinowska/Projects/AnonymousMethod/AnonymousMethod/obj/Debug/net7.0/AnonymousMethod.AssemblyInfoInputs.cache
+/Users/justynamalinowska/Projects/AnonymousMethod/AnonymousMethod/obj/Debug/net7.0/AnonymousMethod.AssemblyInfo.cs
+/Users/justynamalinowska/Projects/AnonymousMethod/AnonymousMethod/obj/Debug/net7.0/AnonymousMethod.csproj.CoreCompileInputs.cache
+/Users/justynamalinowska/Projects/AnonymousMethod/AnonymousMethod/bin/Debug/net7.0/AnonymousMethod
+/Users/justynamalinowska/Projects/AnonymousMethod/AnonymousMethod/bin/Debug/net7.0/AnonymousMethod.deps.json
+/Users/justynamalinowska/Projects/AnonymousMethod/AnonymousMethod/bin/Debug/net7.0/AnonymousMethod.runtimeconfig.json
+/Users/justynamalinowska/Projects/AnonymousMethod/AnonymousMethod/bin/Debug/net7.0/AnonymousMethod.dll
+/Users/justynamalinowska/Projects/AnonymousMethod/AnonymousMethod/bin/Debug/net7.0/AnonymousMethod.pdb
+/Users/justynamalinowska/Projects/AnonymousMethod/AnonymousMethod/obj/Debug/net7.0/AnonymousMethod.dll
+/Users/justynamalinowska/Projects/AnonymousMethod/AnonymousMethod/obj/Debug/net7.0/refint/AnonymousMethod.dll
+/Users/justynamalinowska/Projects/AnonymousMethod/AnonymousMethod/obj/Debug/net7.0/AnonymousMethod.pdb
+/Users/justynamalinowska/Projects/AnonymousMethod/AnonymousMethod/obj/Debug/net7.0/AnonymousMethod.genruntimeconfig.cache
+/Users/justynamalinowska/Projects/AnonymousMethod/AnonymousMethod/obj/Debug/net7.0/ref/AnonymousMethod.dll

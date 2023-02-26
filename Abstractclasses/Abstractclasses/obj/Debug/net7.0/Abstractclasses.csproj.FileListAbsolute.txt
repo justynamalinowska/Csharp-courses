@@ -1,0 +1,15 @@
+/Users/justynamalinowska/Projects/Abstractclasses/Abstractclasses/obj/Debug/net7.0/Abstractclasses.csproj.AssemblyReference.cache
+/Users/justynamalinowska/Projects/Abstractclasses/Abstractclasses/obj/Debug/net7.0/Abstractclasses.GeneratedMSBuildEditorConfig.editorconfig
+/Users/justynamalinowska/Projects/Abstractclasses/Abstractclasses/obj/Debug/net7.0/Abstractclasses.AssemblyInfoInputs.cache
+/Users/justynamalinowska/Projects/Abstractclasses/Abstractclasses/obj/Debug/net7.0/Abstractclasses.AssemblyInfo.cs
+/Users/justynamalinowska/Projects/Abstractclasses/Abstractclasses/obj/Debug/net7.0/Abstractclasses.csproj.CoreCompileInputs.cache
+/Users/justynamalinowska/Projects/Abstractclasses/Abstractclasses/bin/Debug/net7.0/Abstractclasses
+/Users/justynamalinowska/Projects/Abstractclasses/Abstractclasses/bin/Debug/net7.0/Abstractclasses.deps.json
+/Users/justynamalinowska/Projects/Abstractclasses/Abstractclasses/bin/Debug/net7.0/Abstractclasses.runtimeconfig.json
+/Users/justynamalinowska/Projects/Abstractclasses/Abstractclasses/bin/Debug/net7.0/Abstractclasses.dll
+/Users/justynamalinowska/Projects/Abstractclasses/Abstractclasses/bin/Debug/net7.0/Abstractclasses.pdb
+/Users/justynamalinowska/Projects/Abstractclasses/Abstractclasses/obj/Debug/net7.0/Abstractclasses.dll
+/Users/justynamalinowska/Projects/Abstractclasses/Abstractclasses/obj/Debug/net7.0/refint/Abstractclasses.dll
+/Users/justynamalinowska/Projects/Abstractclasses/Abstractclasses/obj/Debug/net7.0/Abstractclasses.pdb
+/Users/justynamalinowska/Projects/Abstractclasses/Abstractclasses/obj/Debug/net7.0/Abstractclasses.genruntimeconfig.cache
+/Users/justynamalinowska/Projects/Abstractclasses/Abstractclasses/obj/Debug/net7.0/ref/Abstractclasses.dll
