@@ -1,0 +1,15 @@
+/Users/justynamalinowska/Projects/read and write/read and write/bin/Debug/net7.0/read and write
+/Users/justynamalinowska/Projects/read and write/read and write/bin/Debug/net7.0/read and write.deps.json
+/Users/justynamalinowska/Projects/read and write/read and write/bin/Debug/net7.0/read and write.runtimeconfig.json
+/Users/justynamalinowska/Projects/read and write/read and write/bin/Debug/net7.0/read and write.dll
+/Users/justynamalinowska/Projects/read and write/read and write/bin/Debug/net7.0/read and write.pdb
+/Users/justynamalinowska/Projects/read and write/read and write/obj/Debug/net7.0/read and write.csproj.AssemblyReference.cache
+/Users/justynamalinowska/Projects/read and write/read and write/obj/Debug/net7.0/read and write.GeneratedMSBuildEditorConfig.editorconfig
+/Users/justynamalinowska/Projects/read and write/read and write/obj/Debug/net7.0/read and write.AssemblyInfoInputs.cache
+/Users/justynamalinowska/Projects/read and write/read and write/obj/Debug/net7.0/read and write.AssemblyInfo.cs
+/Users/justynamalinowska/Projects/read and write/read and write/obj/Debug/net7.0/read and write.csproj.CoreCompileInputs.cache
+/Users/justynamalinowska/Projects/read and write/read and write/obj/Debug/net7.0/read and write.dll
+/Users/justynamalinowska/Projects/read and write/read and write/obj/Debug/net7.0/refint/read and write.dll
+/Users/justynamalinowska/Projects/read and write/read and write/obj/Debug/net7.0/read and write.pdb
+/Users/justynamalinowska/Projects/read and write/read and write/obj/Debug/net7.0/read and write.genruntimeconfig.cache
+/Users/justynamalinowska/Projects/read and write/read and write/obj/Debug/net7.0/ref/read and write.dll

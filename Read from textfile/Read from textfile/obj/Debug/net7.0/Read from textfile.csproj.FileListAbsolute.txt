@@ -1,0 +1,15 @@
+/Users/justynamalinowska/Projects/Read from textfile/Read from textfile/bin/Debug/net7.0/Read from textfile
+/Users/justynamalinowska/Projects/Read from textfile/Read from textfile/bin/Debug/net7.0/Read from textfile.deps.json
+/Users/justynamalinowska/Projects/Read from textfile/Read from textfile/bin/Debug/net7.0/Read from textfile.runtimeconfig.json
+/Users/justynamalinowska/Projects/Read from textfile/Read from textfile/bin/Debug/net7.0/Read from textfile.dll
+/Users/justynamalinowska/Projects/Read from textfile/Read from textfile/bin/Debug/net7.0/Read from textfile.pdb
+/Users/justynamalinowska/Projects/Read from textfile/Read from textfile/obj/Debug/net7.0/Read from textfile.csproj.AssemblyReference.cache
+/Users/justynamalinowska/Projects/Read from textfile/Read from textfile/obj/Debug/net7.0/Read from textfile.GeneratedMSBuildEditorConfig.editorconfig
+/Users/justynamalinowska/Projects/Read from textfile/Read from textfile/obj/Debug/net7.0/Read from textfile.AssemblyInfoInputs.cache
+/Users/justynamalinowska/Projects/Read from textfile/Read from textfile/obj/Debug/net7.0/Read from textfile.AssemblyInfo.cs
+/Users/justynamalinowska/Projects/Read from textfile/Read from textfile/obj/Debug/net7.0/Read from textfile.csproj.CoreCompileInputs.cache
+/Users/justynamalinowska/Projects/Read from textfile/Read from textfile/obj/Debug/net7.0/Read from textfile.dll
+/Users/justynamalinowska/Projects/Read from textfile/Read from textfile/obj/Debug/net7.0/refint/Read from textfile.dll
+/Users/justynamalinowska/Projects/Read from textfile/Read from textfile/obj/Debug/net7.0/Read from textfile.pdb
+/Users/justynamalinowska/Projects/Read from textfile/Read from textfile/obj/Debug/net7.0/Read from textfile.genruntimeconfig.cache
+/Users/justynamalinowska/Projects/Read from textfile/Read from textfile/obj/Debug/net7.0/ref/Read from textfile.dll

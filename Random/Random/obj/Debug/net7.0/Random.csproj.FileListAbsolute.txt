@@ -1,0 +1,15 @@
+/Users/justynamalinowska/Projects/Random/Random/bin/Debug/net7.0/Random
+/Users/justynamalinowska/Projects/Random/Random/bin/Debug/net7.0/Random.deps.json
+/Users/justynamalinowska/Projects/Random/Random/bin/Debug/net7.0/Random.runtimeconfig.json
+/Users/justynamalinowska/Projects/Random/Random/bin/Debug/net7.0/Random.dll
+/Users/justynamalinowska/Projects/Random/Random/bin/Debug/net7.0/Random.pdb
+/Users/justynamalinowska/Projects/Random/Random/obj/Debug/net7.0/Random.csproj.AssemblyReference.cache
+/Users/justynamalinowska/Projects/Random/Random/obj/Debug/net7.0/Random.GeneratedMSBuildEditorConfig.editorconfig
+/Users/justynamalinowska/Projects/Random/Random/obj/Debug/net7.0/Random.AssemblyInfoInputs.cache
+/Users/justynamalinowska/Projects/Random/Random/obj/Debug/net7.0/Random.AssemblyInfo.cs
+/Users/justynamalinowska/Projects/Random/Random/obj/Debug/net7.0/Random.csproj.CoreCompileInputs.cache
+/Users/justynamalinowska/Projects/Random/Random/obj/Debug/net7.0/Random.dll
+/Users/justynamalinowska/Projects/Random/Random/obj/Debug/net7.0/refint/Random.dll
+/Users/justynamalinowska/Projects/Random/Random/obj/Debug/net7.0/Random.pdb
+/Users/justynamalinowska/Projects/Random/Random/obj/Debug/net7.0/Random.genruntimeconfig.cache
+/Users/justynamalinowska/Projects/Random/Random/obj/Debug/net7.0/ref/Random.dll
