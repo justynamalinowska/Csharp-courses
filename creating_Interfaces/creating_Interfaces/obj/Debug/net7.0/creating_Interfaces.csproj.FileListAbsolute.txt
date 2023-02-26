@@ -1,0 +1,15 @@
+/Users/justynamalinowska/Projects/creating_Interfaces/creating_Interfaces/bin/Debug/net7.0/creating_Interfaces
+/Users/justynamalinowska/Projects/creating_Interfaces/creating_Interfaces/bin/Debug/net7.0/creating_Interfaces.deps.json
+/Users/justynamalinowska/Projects/creating_Interfaces/creating_Interfaces/bin/Debug/net7.0/creating_Interfaces.runtimeconfig.json
+/Users/justynamalinowska/Projects/creating_Interfaces/creating_Interfaces/bin/Debug/net7.0/creating_Interfaces.dll
+/Users/justynamalinowska/Projects/creating_Interfaces/creating_Interfaces/bin/Debug/net7.0/creating_Interfaces.pdb
+/Users/justynamalinowska/Projects/creating_Interfaces/creating_Interfaces/obj/Debug/net7.0/creating_Interfaces.csproj.AssemblyReference.cache
+/Users/justynamalinowska/Projects/creating_Interfaces/creating_Interfaces/obj/Debug/net7.0/creating_Interfaces.GeneratedMSBuildEditorConfig.editorconfig
+/Users/justynamalinowska/Projects/creating_Interfaces/creating_Interfaces/obj/Debug/net7.0/creating_Interfaces.AssemblyInfoInputs.cache
+/Users/justynamalinowska/Projects/creating_Interfaces/creating_Interfaces/obj/Debug/net7.0/creating_Interfaces.AssemblyInfo.cs
+/Users/justynamalinowska/Projects/creating_Interfaces/creating_Interfaces/obj/Debug/net7.0/creating_Interfaces.csproj.CoreCompileInputs.cache
+/Users/justynamalinowska/Projects/creating_Interfaces/creating_Interfaces/obj/Debug/net7.0/creating_Interfaces.dll
+/Users/justynamalinowska/Projects/creating_Interfaces/creating_Interfaces/obj/Debug/net7.0/refint/creating_Interfaces.dll
+/Users/justynamalinowska/Projects/creating_Interfaces/creating_Interfaces/obj/Debug/net7.0/creating_Interfaces.pdb
+/Users/justynamalinowska/Projects/creating_Interfaces/creating_Interfaces/obj/Debug/net7.0/creating_Interfaces.genruntimeconfig.cache
+/Users/justynamalinowska/Projects/creating_Interfaces/creating_Interfaces/obj/Debug/net7.0/ref/creating_Interfaces.dll

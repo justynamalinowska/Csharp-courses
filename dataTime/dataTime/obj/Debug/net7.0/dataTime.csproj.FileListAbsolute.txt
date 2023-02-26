@@ -1,0 +1,15 @@
+/Users/justynamalinowska/Projects/dataTime/dataTime/bin/Debug/net7.0/dataTime
+/Users/justynamalinowska/Projects/dataTime/dataTime/bin/Debug/net7.0/dataTime.deps.json
+/Users/justynamalinowska/Projects/dataTime/dataTime/bin/Debug/net7.0/dataTime.runtimeconfig.json
+/Users/justynamalinowska/Projects/dataTime/dataTime/bin/Debug/net7.0/dataTime.dll
+/Users/justynamalinowska/Projects/dataTime/dataTime/bin/Debug/net7.0/dataTime.pdb
+/Users/justynamalinowska/Projects/dataTime/dataTime/obj/Debug/net7.0/dataTime.csproj.AssemblyReference.cache
+/Users/justynamalinowska/Projects/dataTime/dataTime/obj/Debug/net7.0/dataTime.GeneratedMSBuildEditorConfig.editorconfig
+/Users/justynamalinowska/Projects/dataTime/dataTime/obj/Debug/net7.0/dataTime.AssemblyInfoInputs.cache
+/Users/justynamalinowska/Projects/dataTime/dataTime/obj/Debug/net7.0/dataTime.AssemblyInfo.cs
+/Users/justynamalinowska/Projects/dataTime/dataTime/obj/Debug/net7.0/dataTime.csproj.CoreCompileInputs.cache
+/Users/justynamalinowska/Projects/dataTime/dataTime/obj/Debug/net7.0/dataTime.dll
+/Users/justynamalinowska/Projects/dataTime/dataTime/obj/Debug/net7.0/refint/dataTime.dll
+/Users/justynamalinowska/Projects/dataTime/dataTime/obj/Debug/net7.0/dataTime.pdb
+/Users/justynamalinowska/Projects/dataTime/dataTime/obj/Debug/net7.0/dataTime.genruntimeconfig.cache
+/Users/justynamalinowska/Projects/dataTime/dataTime/obj/Debug/net7.0/ref/dataTime.dll

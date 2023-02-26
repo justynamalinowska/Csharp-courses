@@ -1,0 +1,15 @@
+/Users/justynamalinowska/Projects/classes_students/classes_students/obj/Debug/net7.0/classes_students.csproj.AssemblyReference.cache
+/Users/justynamalinowska/Projects/classes_students/classes_students/obj/Debug/net7.0/classes_students.GeneratedMSBuildEditorConfig.editorconfig
+/Users/justynamalinowska/Projects/classes_students/classes_students/obj/Debug/net7.0/classes_students.AssemblyInfoInputs.cache
+/Users/justynamalinowska/Projects/classes_students/classes_students/obj/Debug/net7.0/classes_students.AssemblyInfo.cs
+/Users/justynamalinowska/Projects/classes_students/classes_students/obj/Debug/net7.0/classes_students.csproj.CoreCompileInputs.cache
+/Users/justynamalinowska/Projects/classes_students/classes_students/bin/Debug/net7.0/classes_students
+/Users/justynamalinowska/Projects/classes_students/classes_students/bin/Debug/net7.0/classes_students.deps.json
+/Users/justynamalinowska/Projects/classes_students/classes_students/bin/Debug/net7.0/classes_students.runtimeconfig.json
+/Users/justynamalinowska/Projects/classes_students/classes_students/bin/Debug/net7.0/classes_students.dll
+/Users/justynamalinowska/Projects/classes_students/classes_students/bin/Debug/net7.0/classes_students.pdb
+/Users/justynamalinowska/Projects/classes_students/classes_students/obj/Debug/net7.0/classes_students.dll
+/Users/justynamalinowska/Projects/classes_students/classes_students/obj/Debug/net7.0/refint/classes_students.dll
+/Users/justynamalinowska/Projects/classes_students/classes_students/obj/Debug/net7.0/classes_students.pdb
+/Users/justynamalinowska/Projects/classes_students/classes_students/obj/Debug/net7.0/classes_students.genruntimeconfig.cache
+/Users/justynamalinowska/Projects/classes_students/classes_students/obj/Debug/net7.0/ref/classes_students.dll
