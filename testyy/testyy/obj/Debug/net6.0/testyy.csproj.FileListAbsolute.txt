@@ -1,0 +1,15 @@
+/Users/justynamalinowska/Projects/testyy/testyy/obj/Debug/net6.0/testyy.csproj.AssemblyReference.cache
+/Users/justynamalinowska/Projects/testyy/testyy/obj/Debug/net6.0/testyy.GeneratedMSBuildEditorConfig.editorconfig
+/Users/justynamalinowska/Projects/testyy/testyy/obj/Debug/net6.0/testyy.AssemblyInfoInputs.cache
+/Users/justynamalinowska/Projects/testyy/testyy/obj/Debug/net6.0/testyy.AssemblyInfo.cs
+/Users/justynamalinowska/Projects/testyy/testyy/obj/Debug/net6.0/testyy.csproj.CoreCompileInputs.cache
+/Users/justynamalinowska/Projects/testyy/testyy/bin/Debug/net6.0/testyy
+/Users/justynamalinowska/Projects/testyy/testyy/bin/Debug/net6.0/testyy.deps.json
+/Users/justynamalinowska/Projects/testyy/testyy/bin/Debug/net6.0/testyy.runtimeconfig.json
+/Users/justynamalinowska/Projects/testyy/testyy/bin/Debug/net6.0/testyy.dll
+/Users/justynamalinowska/Projects/testyy/testyy/bin/Debug/net6.0/testyy.pdb
+/Users/justynamalinowska/Projects/testyy/testyy/obj/Debug/net6.0/testyy.dll
+/Users/justynamalinowska/Projects/testyy/testyy/obj/Debug/net6.0/refint/testyy.dll
+/Users/justynamalinowska/Projects/testyy/testyy/obj/Debug/net6.0/testyy.pdb
+/Users/justynamalinowska/Projects/testyy/testyy/obj/Debug/net6.0/testyy.genruntimeconfig.cache
+/Users/justynamalinowska/Projects/testyy/testyy/obj/Debug/net6.0/ref/testyy.dll
