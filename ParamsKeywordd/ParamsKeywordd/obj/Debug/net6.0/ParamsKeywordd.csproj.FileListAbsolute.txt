@@ -1,0 +1,15 @@
+/Users/justynamalinowska/Projects/ParamsKeywordd/ParamsKeywordd/bin/Debug/net6.0/ParamsKeywordd
+/Users/justynamalinowska/Projects/ParamsKeywordd/ParamsKeywordd/bin/Debug/net6.0/ParamsKeywordd.deps.json
+/Users/justynamalinowska/Projects/ParamsKeywordd/ParamsKeywordd/bin/Debug/net6.0/ParamsKeywordd.runtimeconfig.json
+/Users/justynamalinowska/Projects/ParamsKeywordd/ParamsKeywordd/bin/Debug/net6.0/ParamsKeywordd.dll
+/Users/justynamalinowska/Projects/ParamsKeywordd/ParamsKeywordd/bin/Debug/net6.0/ParamsKeywordd.pdb
+/Users/justynamalinowska/Projects/ParamsKeywordd/ParamsKeywordd/obj/Debug/net6.0/ParamsKeywordd.csproj.AssemblyReference.cache
+/Users/justynamalinowska/Projects/ParamsKeywordd/ParamsKeywordd/obj/Debug/net6.0/ParamsKeywordd.GeneratedMSBuildEditorConfig.editorconfig
+/Users/justynamalinowska/Projects/ParamsKeywordd/ParamsKeywordd/obj/Debug/net6.0/ParamsKeywordd.AssemblyInfoInputs.cache
+/Users/justynamalinowska/Projects/ParamsKeywordd/ParamsKeywordd/obj/Debug/net6.0/ParamsKeywordd.AssemblyInfo.cs
+/Users/justynamalinowska/Projects/ParamsKeywordd/ParamsKeywordd/obj/Debug/net6.0/ParamsKeywordd.csproj.CoreCompileInputs.cache
+/Users/justynamalinowska/Projects/ParamsKeywordd/ParamsKeywordd/obj/Debug/net6.0/ParamsKeywordd.dll
+/Users/justynamalinowska/Projects/ParamsKeywordd/ParamsKeywordd/obj/Debug/net6.0/refint/ParamsKeywordd.dll
+/Users/justynamalinowska/Projects/ParamsKeywordd/ParamsKeywordd/obj/Debug/net6.0/ParamsKeywordd.pdb
+/Users/justynamalinowska/Projects/ParamsKeywordd/ParamsKeywordd/obj/Debug/net6.0/ParamsKeywordd.genruntimeconfig.cache
+/Users/justynamalinowska/Projects/ParamsKeywordd/ParamsKeywordd/obj/Debug/net6.0/ref/ParamsKeywordd.dll

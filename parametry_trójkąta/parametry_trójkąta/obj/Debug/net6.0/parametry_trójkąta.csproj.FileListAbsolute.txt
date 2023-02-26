@@ -1,0 +1,15 @@
+/Users/justynamalinowska/Projects/parametry_trójkąta/parametry_trójkąta/bin/Debug/net6.0/parametry_trójkąta
+/Users/justynamalinowska/Projects/parametry_trójkąta/parametry_trójkąta/bin/Debug/net6.0/parametry_trójkąta.deps.json
+/Users/justynamalinowska/Projects/parametry_trójkąta/parametry_trójkąta/bin/Debug/net6.0/parametry_trójkąta.runtimeconfig.json
+/Users/justynamalinowska/Projects/parametry_trójkąta/parametry_trójkąta/bin/Debug/net6.0/parametry_trójkąta.dll
+/Users/justynamalinowska/Projects/parametry_trójkąta/parametry_trójkąta/bin/Debug/net6.0/parametry_trójkąta.pdb
+/Users/justynamalinowska/Projects/parametry_trójkąta/parametry_trójkąta/obj/Debug/net6.0/parametry_trójkąta.csproj.AssemblyReference.cache
+/Users/justynamalinowska/Projects/parametry_trójkąta/parametry_trójkąta/obj/Debug/net6.0/parametry_trójkąta.GeneratedMSBuildEditorConfig.editorconfig
+/Users/justynamalinowska/Projects/parametry_trójkąta/parametry_trójkąta/obj/Debug/net6.0/parametry_trójkąta.AssemblyInfoInputs.cache
+/Users/justynamalinowska/Projects/parametry_trójkąta/parametry_trójkąta/obj/Debug/net6.0/parametry_trójkąta.AssemblyInfo.cs
+/Users/justynamalinowska/Projects/parametry_trójkąta/parametry_trójkąta/obj/Debug/net6.0/parametry_trójkąta.csproj.CoreCompileInputs.cache
+/Users/justynamalinowska/Projects/parametry_trójkąta/parametry_trójkąta/obj/Debug/net6.0/parametry_trójkąta.dll
+/Users/justynamalinowska/Projects/parametry_trójkąta/parametry_trójkąta/obj/Debug/net6.0/refint/parametry_trójkąta.dll
+/Users/justynamalinowska/Projects/parametry_trójkąta/parametry_trójkąta/obj/Debug/net6.0/parametry_trójkąta.pdb
+/Users/justynamalinowska/Projects/parametry_trójkąta/parametry_trójkąta/obj/Debug/net6.0/parametry_trójkąta.genruntimeconfig.cache
+/Users/justynamalinowska/Projects/parametry_trójkąta/parametry_trójkąta/obj/Debug/net6.0/ref/parametry_trójkąta.dll
