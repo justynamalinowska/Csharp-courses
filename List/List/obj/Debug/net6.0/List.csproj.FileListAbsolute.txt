@@ -1,0 +1,15 @@
+/Users/justynamalinowska/Projects/List/List/bin/Debug/net6.0/List
+/Users/justynamalinowska/Projects/List/List/bin/Debug/net6.0/List.deps.json
+/Users/justynamalinowska/Projects/List/List/bin/Debug/net6.0/List.runtimeconfig.json
+/Users/justynamalinowska/Projects/List/List/bin/Debug/net6.0/List.dll
+/Users/justynamalinowska/Projects/List/List/bin/Debug/net6.0/List.pdb
+/Users/justynamalinowska/Projects/List/List/obj/Debug/net6.0/List.csproj.AssemblyReference.cache
+/Users/justynamalinowska/Projects/List/List/obj/Debug/net6.0/List.GeneratedMSBuildEditorConfig.editorconfig
+/Users/justynamalinowska/Projects/List/List/obj/Debug/net6.0/List.AssemblyInfoInputs.cache
+/Users/justynamalinowska/Projects/List/List/obj/Debug/net6.0/List.AssemblyInfo.cs
+/Users/justynamalinowska/Projects/List/List/obj/Debug/net6.0/List.csproj.CoreCompileInputs.cache
+/Users/justynamalinowska/Projects/List/List/obj/Debug/net6.0/List.dll
+/Users/justynamalinowska/Projects/List/List/obj/Debug/net6.0/refint/List.dll
+/Users/justynamalinowska/Projects/List/List/obj/Debug/net6.0/List.pdb
+/Users/justynamalinowska/Projects/List/List/obj/Debug/net6.0/List.genruntimeconfig.cache
+/Users/justynamalinowska/Projects/List/List/obj/Debug/net6.0/ref/List.dll

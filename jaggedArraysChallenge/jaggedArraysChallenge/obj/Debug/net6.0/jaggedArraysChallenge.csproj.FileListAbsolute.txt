@@ -1,0 +1,15 @@
+/Users/justynamalinowska/Projects/jaggedArraysChallenge/jaggedArraysChallenge/bin/Debug/net6.0/jaggedArraysChallenge
+/Users/justynamalinowska/Projects/jaggedArraysChallenge/jaggedArraysChallenge/bin/Debug/net6.0/jaggedArraysChallenge.deps.json
+/Users/justynamalinowska/Projects/jaggedArraysChallenge/jaggedArraysChallenge/bin/Debug/net6.0/jaggedArraysChallenge.runtimeconfig.json
+/Users/justynamalinowska/Projects/jaggedArraysChallenge/jaggedArraysChallenge/bin/Debug/net6.0/jaggedArraysChallenge.dll
+/Users/justynamalinowska/Projects/jaggedArraysChallenge/jaggedArraysChallenge/bin/Debug/net6.0/jaggedArraysChallenge.pdb
+/Users/justynamalinowska/Projects/jaggedArraysChallenge/jaggedArraysChallenge/obj/Debug/net6.0/jaggedArraysChallenge.csproj.AssemblyReference.cache
+/Users/justynamalinowska/Projects/jaggedArraysChallenge/jaggedArraysChallenge/obj/Debug/net6.0/jaggedArraysChallenge.GeneratedMSBuildEditorConfig.editorconfig
+/Users/justynamalinowska/Projects/jaggedArraysChallenge/jaggedArraysChallenge/obj/Debug/net6.0/jaggedArraysChallenge.AssemblyInfoInputs.cache
+/Users/justynamalinowska/Projects/jaggedArraysChallenge/jaggedArraysChallenge/obj/Debug/net6.0/jaggedArraysChallenge.AssemblyInfo.cs
+/Users/justynamalinowska/Projects/jaggedArraysChallenge/jaggedArraysChallenge/obj/Debug/net6.0/jaggedArraysChallenge.csproj.CoreCompileInputs.cache
+/Users/justynamalinowska/Projects/jaggedArraysChallenge/jaggedArraysChallenge/obj/Debug/net6.0/jaggedArraysChallenge.dll
+/Users/justynamalinowska/Projects/jaggedArraysChallenge/jaggedArraysChallenge/obj/Debug/net6.0/refint/jaggedArraysChallenge.dll
+/Users/justynamalinowska/Projects/jaggedArraysChallenge/jaggedArraysChallenge/obj/Debug/net6.0/jaggedArraysChallenge.pdb
+/Users/justynamalinowska/Projects/jaggedArraysChallenge/jaggedArraysChallenge/obj/Debug/net6.0/jaggedArraysChallenge.genruntimeconfig.cache
+/Users/justynamalinowska/Projects/jaggedArraysChallenge/jaggedArraysChallenge/obj/Debug/net6.0/ref/jaggedArraysChallenge.dll
