@@ -1,0 +1,15 @@
+/Users/justynamalinowska/Projects/Hashtables/Hashtables/obj/Debug/net6.0/Hashtables.csproj.AssemblyReference.cache
+/Users/justynamalinowska/Projects/Hashtables/Hashtables/obj/Debug/net6.0/Hashtables.GeneratedMSBuildEditorConfig.editorconfig
+/Users/justynamalinowska/Projects/Hashtables/Hashtables/obj/Debug/net6.0/Hashtables.AssemblyInfoInputs.cache
+/Users/justynamalinowska/Projects/Hashtables/Hashtables/obj/Debug/net6.0/Hashtables.AssemblyInfo.cs
+/Users/justynamalinowska/Projects/Hashtables/Hashtables/obj/Debug/net6.0/Hashtables.csproj.CoreCompileInputs.cache
+/Users/justynamalinowska/Projects/Hashtables/Hashtables/bin/Debug/net6.0/Hashtables
+/Users/justynamalinowska/Projects/Hashtables/Hashtables/bin/Debug/net6.0/Hashtables.deps.json
+/Users/justynamalinowska/Projects/Hashtables/Hashtables/bin/Debug/net6.0/Hashtables.runtimeconfig.json
+/Users/justynamalinowska/Projects/Hashtables/Hashtables/bin/Debug/net6.0/Hashtables.dll
+/Users/justynamalinowska/Projects/Hashtables/Hashtables/bin/Debug/net6.0/Hashtables.pdb
+/Users/justynamalinowska/Projects/Hashtables/Hashtables/obj/Debug/net6.0/Hashtables.dll
+/Users/justynamalinowska/Projects/Hashtables/Hashtables/obj/Debug/net6.0/refint/Hashtables.dll
+/Users/justynamalinowska/Projects/Hashtables/Hashtables/obj/Debug/net6.0/Hashtables.pdb
+/Users/justynamalinowska/Projects/Hashtables/Hashtables/obj/Debug/net6.0/Hashtables.genruntimeconfig.cache
+/Users/justynamalinowska/Projects/Hashtables/Hashtables/obj/Debug/net6.0/ref/Hashtables.dll

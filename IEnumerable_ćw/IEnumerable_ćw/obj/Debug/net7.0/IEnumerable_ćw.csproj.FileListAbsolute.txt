@@ -1,0 +1,15 @@
+/Users/justynamalinowska/Projects/IEnumerable_ćw/IEnumerable_ćw/bin/Debug/net7.0/IEnumerable_ćw
+/Users/justynamalinowska/Projects/IEnumerable_ćw/IEnumerable_ćw/bin/Debug/net7.0/IEnumerable_ćw.deps.json
+/Users/justynamalinowska/Projects/IEnumerable_ćw/IEnumerable_ćw/bin/Debug/net7.0/IEnumerable_ćw.runtimeconfig.json
+/Users/justynamalinowska/Projects/IEnumerable_ćw/IEnumerable_ćw/bin/Debug/net7.0/IEnumerable_ćw.dll
+/Users/justynamalinowska/Projects/IEnumerable_ćw/IEnumerable_ćw/bin/Debug/net7.0/IEnumerable_ćw.pdb
+/Users/justynamalinowska/Projects/IEnumerable_ćw/IEnumerable_ćw/obj/Debug/net7.0/IEnumerable_ćw.csproj.AssemblyReference.cache
+/Users/justynamalinowska/Projects/IEnumerable_ćw/IEnumerable_ćw/obj/Debug/net7.0/IEnumerable_ćw.GeneratedMSBuildEditorConfig.editorconfig
+/Users/justynamalinowska/Projects/IEnumerable_ćw/IEnumerable_ćw/obj/Debug/net7.0/IEnumerable_ćw.AssemblyInfoInputs.cache
+/Users/justynamalinowska/Projects/IEnumerable_ćw/IEnumerable_ćw/obj/Debug/net7.0/IEnumerable_ćw.AssemblyInfo.cs
+/Users/justynamalinowska/Projects/IEnumerable_ćw/IEnumerable_ćw/obj/Debug/net7.0/IEnumerable_ćw.csproj.CoreCompileInputs.cache
+/Users/justynamalinowska/Projects/IEnumerable_ćw/IEnumerable_ćw/obj/Debug/net7.0/IEnumerable_ćw.dll
+/Users/justynamalinowska/Projects/IEnumerable_ćw/IEnumerable_ćw/obj/Debug/net7.0/refint/IEnumerable_ćw.dll
+/Users/justynamalinowska/Projects/IEnumerable_ćw/IEnumerable_ćw/obj/Debug/net7.0/IEnumerable_ćw.pdb
+/Users/justynamalinowska/Projects/IEnumerable_ćw/IEnumerable_ćw/obj/Debug/net7.0/IEnumerable_ćw.genruntimeconfig.cache
+/Users/justynamalinowska/Projects/IEnumerable_ćw/IEnumerable_ćw/obj/Debug/net7.0/ref/IEnumerable_ćw.dll
